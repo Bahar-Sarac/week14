@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-
 public class metod_asalkontolu {
     public static void asal (){
         Scanner input = new Scanner(System.in);
