@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class metod_yildizucgeni {
 
-    public static void exp(int row) {
+    public static void startriangle(int row) {
 
         for (int i = 0; i <= row; i++) {
             for (int j = 0; j < i; j++) {
@@ -22,7 +22,7 @@ public class metod_yildizucgeni {
 
         System.out.println("Satır sayısı giriniz: ");
         int row = input.nextInt();
-        exp(row);
+        startriangle(row);
     }
 
 }
