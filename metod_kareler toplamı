@@ -1,11 +1,6 @@
 
 import java.util.Scanner;
 
-
-/**
- *
- * @author Bahar
- */
 public class metod_karelertoplamı {
     public static void sum (){
         Scanner input = new Scanner (System.in);
